@@ -1,0 +1,20 @@
+## full_oppo6769-user 10 QP1A.190711.020 68b77aba7cb33275 release-keys
+- Manufacturer: realme
+- Platform: mt6768
+- Codename: RMX2020
+- Brand: realme
+- Flavor: full_oppo6769-user
+- Release Version: 10
+- Kernel Version: 4.14.141
+- Id: QP1A.190711.020
+- Incremental: 0770_202205161415
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: 
+- OTA version: RMX2020_11.A.77_0770_202205161415
+- Branch: RMX2020_11.A.77_0770_202205161415
+- Repo: realme/RMX2020
