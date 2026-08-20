@@ -1,0 +1,20 @@
+## sys_oplus_mssi_64_cn-user 11 RP1A.200720.011 1607914664672 release-keys
+- Manufacturer: realme
+- Platform: mt6768
+- Codename: RMX2020
+- Brand: realme
+- Flavor: sys_oplus_mssi_64_cn-user
+- Release Version: 11
+- Kernel Version: 4.14.186
+- Id: RP1A.200720.011
+- Incremental: 1607914664672
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: 480
+- Fingerprint: realme/RMX2020/RMX2020:11/RP1A.200720.011/1652239672541:user/release-keys
+- OTA version: 
+- Branch: sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1607914664672-release-keys
+- Repo: realme/RMX2020
